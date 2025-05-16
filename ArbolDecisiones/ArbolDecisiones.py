@@ -21,3 +21,5 @@ elif estado_animo == "triste":
         print("No tengo una recomendacion para ese tipo.")
 else:
     print("No entendi tu estado de animo. Intenta escribir feliz o triste.")
+
+    ##Probando
